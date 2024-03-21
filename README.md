@@ -4,9 +4,9 @@ original is https://github.com/mustansarfiaz/DDAM-PS/blob/main/README.md
 <br>
 click here to find my understanding of this project
 <br>
-[https://mud-passbook-be4.notion.site/DDAM-PS-7000b55adaeb4cc7b28ae12bbc223302]
+https://mud-passbook-be4.notion.site/DDAM-PS-7000b55adaeb4cc7b28ae12bbc223302
 
-<br>
+<br><br>
 Given the data size consideration, only the main code files are uploaded here, without the datasets, checkpoints, and generated detection result images.
 
 <br><br>
